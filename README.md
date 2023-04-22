@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I created a simple website using html. The website displays links to recipes. Each link is dedicated to a recipe page. Each page has a title of the recipe, an image of the recipe, a description and a list of ingredients. The page then ends with a list of instructions to follow to make the recipe.
